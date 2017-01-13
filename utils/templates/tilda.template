@@ -5,4 +5,7 @@ back_blue = !!COL!{bg.b16bit}!
 text_red = !!COL!{fg.r16bit}!
 text_green = !!COL!{fg.g16bit}!
 text_blue = !!COL!{fg.b16bit}!
+cursor_red = !!COL!{white.r16bit}!
+cursor_green = !!COL!{white.g16bit}!
+cursor_blue = !!COL!{white.b16bit}!
 
