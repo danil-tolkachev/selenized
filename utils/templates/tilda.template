@@ -1,0 +1,8 @@
+palette = {!!COL!{black.r16bit}, {black.g16bit}, {black.b16bit}, !!!COL!{red.r16bit}, {red.g16bit}, {red.b16bit}, !!!COL!{green.r16bit}, {green.g16bit}, {green.b16bit}, !!!COL!{yellow.r16bit}, {yellow.g16bit}, {yellow.b16bit}, !!!COL!{blue.r16bit}, {blue.g16bit}, {blue.b16bit}, !!!COL!{magenta.r16bit}, {magenta.g16bit}, {magenta.b16bit}, !!!COL!{cyan.r16bit}, {cyan.g16bit}, {cyan.b16bit}, !!!COL!{white.r16bit}, {white.g16bit}, {white.b16bit}, !!!COL!{br_black.r16bit}, {br_black.g16bit}, {br_black.b16bit}, !!!COL!{br_red.r16bit}, {br_red.g16bit}, {br_red.b16bit}, !!!COL!{br_green.r16bit}, {br_green.g16bit}, {br_green.b16bit}, !!!COL!{br_yellow.r16bit}, {br_yellow.g16bit}, {br_yellow.b16bit}, !!!COL!{br_blue.r16bit}, {br_blue.g16bit}, {br_blue.b16bit}, !!!COL!{br_magenta.r16bit}, {br_magenta.g16bit}, {br_magenta.b16bit}, !!!COL!{br_cyan.r16bit}, {br_cyan.g16bit}, {br_cyan.b16bit}, !!!COL!{br_white.r16bit}, {br_white.g16bit}, {br_white.b16bit}!}
+back_red = !!COL!{bg.r16bit}!
+back_green = !!COL!{bg.g16bit}!
+back_blue = !!COL!{bg.b16bit}!
+text_red = !!COL!{fg.r16bit}!
+text_green = !!COL!{fg.g16bit}!
+text_blue = !!COL!{fg.b16bit}!
+
